@@ -1,0 +1,1 @@
+<label><input type="checkbox" name="<?=$a['letters_type'];?>" onclick="javascript: if ( typeof oMailBoxMessages != 'undefined' ) oMailBoxMessages.getTypifiedPage()" <?=$a['checked'];?> /> <?=$a['letters_type_caption'];?></label>
